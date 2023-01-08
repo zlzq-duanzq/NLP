@@ -6,7 +6,7 @@ Published on EECS 595 Student Project Gallery [website](https://sled.eecs.umich.
 
 
 
-Tool used to generate Dataset: chatCPT and Midjourney AI.
+Tool used to generate Dataset: chatGPT and Midjourney AI.
 
 Some sample Image Caption test result on the new Dataset
 
