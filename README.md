@@ -10,4 +10,4 @@ Tool used to generate Dataset: chatGPT and Midjourney AI.
 
 Some sample Image Caption test result on the new Dataset
 
-![sample test](sampl_test.png)
+![sample test](sample_test.png)
