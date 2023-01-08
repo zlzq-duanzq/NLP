@@ -10,4 +10,4 @@ Tool used to generate Dataset: chatCPT and Midjourney AI.
 
 Some sample Image Caption test result on the new Dataset
 
-![sample test](/Users/duanzq/Desktop/Github/NLP_proj/sample test.png)
+![sample test](sample test.png)
